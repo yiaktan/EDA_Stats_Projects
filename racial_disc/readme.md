@@ -1,6 +1,6 @@
 ## Project Summary
-This dataset contains information on whether a job applicant received a callback. The dataset marks whether the person had a white-sounding name or a black-sounding name. The sample size is 4870 split equally amongst black names and white names. Black names had a callback rate of 6.44%, while white-sounding names had a callback rate of 9.65%. To determine whether the difference in callback rates is statistically significant, a 2 sample $t$-test was used.
-__Null Hypothesis:__ There is not a statistically significant difference in the callback rates of black and white names
+This dataset contains information on whether a job applicant received a callback. The dataset marks whether the person had a white-sounding name or a black-sounding name. The sample size is 4870 split equally amongst black names and white names. Black names had a callback rate of 6.44%, while white-sounding names had a callback rate of 9.65%. To determine whether the difference in callback rates is statistically significant, a 2 sample $t$-test was used.<br>
+__Null Hypothesis:__ There is not a statistically significant difference in the callback rates of black and white names<br>
 __Alternate Hypothesis:__ There is a statistically significant difference in the callback rates of black and white names
 
 ## Results
