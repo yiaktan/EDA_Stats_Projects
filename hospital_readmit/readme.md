@@ -1,0 +1,5 @@
+## Project Summary
+In October 2012, the US government's Center for Medicare and Medicaid Services (CMS) began reducing Medicare payments for Inpatient Prospective Payment System hospitals with excess readmissions. Excess readmissions are measured by a ratio, by dividing a hospital’s number of “predicted” 30-day readmissions for heart attack, heart failure, and pneumonia by the number that would be “expected,” based on an average hospital with similar patients. A ratio greater than 1 indicates excess readmissions.
+
+## Solution
+The scatterplot arbitrarily highlighted sections of the graph and didn't make clear what the overall trend was. After computing a trendline and R value, I found that there is a weak negative correlation between hospital size and readmission rates. Other factors should be analyzed before deciding to make any dramatic alterations to the current hospital landscape.
